@@ -22,7 +22,7 @@ Open `Notebooks/V2/Predictions_R32.ipynb` and run all cells top to bottom, then 
 
 ```python
 predict('Brazil', 'France', is_neutral=1, tournament='FIFA World Cup')
-
+```
 ```
 ├── data/               ← raw data (do not modify)
 ├── dataII/
